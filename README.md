@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/Synqit-demo/d3a8465c-0048-4c97-94f2-a934ff52129a/9f200d33-3757-4060-b468-0131e94e0e60/_apis/work/boardbadge/3f5ffcd4-ef79-4823-b2fc-f318ebd719e9)](https://dev.azure.com/Synqit-demo/d3a8465c-0048-4c97-94f2-a934ff52129a/_boards/board/t/9f200d33-3757-4060-b468-0131e94e0e60/Microsoft.RequirementCategory)
 # Microsoft BASIC for 6502 Microprocessor - Version 1.1
 
 ## Historical Significance
